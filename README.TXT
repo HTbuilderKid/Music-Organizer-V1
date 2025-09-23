@@ -19,6 +19,6 @@
 
 10. Again, the loic here is the same as that of the previous question. 0-14, so the last item would be 14
 
-11. 
+11. files.add(favoriteTrack);
 
-12.
+12. dates.remove(2);
