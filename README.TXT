@@ -22,3 +22,5 @@
 11. files.add(favoriteTrack);
 
 12. dates.remove(2);
+
+13. It will now be at index 5
