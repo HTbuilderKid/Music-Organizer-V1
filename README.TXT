@@ -1,7 +1,7 @@
 
-2. 
+2. No, you don't get an error because the condition 0 < 0 is false, so the body of the 'if' is skipped
 
-3. 
+3. Well, we learned that deleting an element from an ArrayList just shifts all the remaining elements to the left in order to close the gap, so this isn't that surprising
 
 4. private ArrayList<Book> Library;
 
